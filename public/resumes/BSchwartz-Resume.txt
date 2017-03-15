@@ -1,0 +1,57 @@
+Blake H Schwartz
+blakehschwartz@gmail.com  //  206 427 7482 
+
+TECHNICAL SKILLS    
+WEB
+HTML5/CSS3
+JAVASCRIPT
+ADOBE CC 2015
+PHP/MYSQL
+C#/ASP.NET
+WORDPRESS
+LINUX
+GENERAL
+Adobe Creative Suite CC
+MS Office Applications
+Technical Writing
+Technical Support
+EDUCATION
+Seattle Community Colleges, 
+Certificate in Web Development
+Academic Honors: Dean’s List 
+University of Washington
+Bachelor of Arts, English
+Academic Honors: Dean’s List
+University of Washington 
+Professional & Continuing Education
+Geographic Information 
+Systems Certificate Program
+
+EXPERIENCE 
+Freelance Professional, Seattle, WA
+Web Developer 2014–Present
+* Actively learning and developing new projects using front end frameworks including Bootstrap, Foundation, and the MEAN Stack 
+* Working with clients and other web professionals to develop, re-design, and refresh small business websites using industry-standard tools and the latest frameworks
+* Providing full website design and development services including visual design, responsive layout, imagery and content management
+The Wishing Well Foundation, Sept—Dec 2015
+* Lead developer on a full website design/build project for a local non-profit organization serving foster kids and families
+* Provided DevOps support to a student team of three other individuals developing a custom Wordpress theme from scratch
+* Installed and maintained a Linux web server on Amazon EC2, established and maintained shared GitHub repo, trained team on use of Vagrant
+* Wrote template files using PHP, HTML and CSS
+Water For Humans, Sept 2015—Present
+* Volunteer developer on a website refresh project for an international non-profit organization focusing on water issues in developing countries
+* Actively participating in steering efforts to determine needs, strategies and goals for the organization and web team
+* Providing subject matter expertise on Wordpress and web development best practices
+Individual Freelance Projects, Sept 2014—Aug 2015
+* Developed custom websites for individuals and small business owners using HTML 5, CSS 3, and JQuery
+* Performed full site design/build projects for live clients while satisfying web development & design course requirements
+Tetra Tech Inc., Bothell, WA
+GIS Technician and Environmental Science Specialist 2010—2013
+* Supported teams of project scientists, engineers, and field personnel on environmental surveying and remediation projects nationwide
+* Provided spatial information analysis and data processing expertise, traveled extensively to project sites, prepared reports and deliverables
+* Assisted remote and on-site project managers, coordinated and provided direct supervision of up to 15 personnel
+City of Mercer Island, Mercer Island, WA
+GIS Technician 2011
+* Used GIS software to analyze and compile land use records and link them to a custom web mapping portal
+* Worked closely with IT and GIS personnel to develop techniques and guidelines to analyze more than 20,000 land use documents
+
