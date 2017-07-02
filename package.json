@@ -1,15 +1,17 @@
 {
   "name": "portfolio",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "portfolio site",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.15.0",
     "cors": "^2.7.1",
     "express": "^4.13.4",
-    "express-handlebars": "^3.0.0"
+    "pm2": "^2.4.2" 
   },
   "scripts": {
+    "start": "pm2 start index.js -i max — name=\"My-App\"",
+    "restart": "pm2 restart all",       
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
