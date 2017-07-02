@@ -10,7 +10,7 @@
     "pm2": "^2.4.2"
   },
   "scripts": {
-    "start": "pm2 start index.js -i max — name=\"My-App\"",
+    "start": "pm2 start index.js -i max — name=\"portfolio\"",
     "restart": "pm2 restart all",
     "test": "mocha"
   },
