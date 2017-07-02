@@ -26,6 +26,7 @@
   "homepage": "https://github.com/bschwartz757/portfolio#readme",
   "devDependencies": {
     "chai": "^4.0.2",
+    "concat-map": "0.0.1",
     "inflight": "^1.0.6",
     "minimatch": "^3.0.4",
     "mocha": "^3.4.2",
